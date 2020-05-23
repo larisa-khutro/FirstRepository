@@ -1,2 +1,5 @@
 Good bye!!!
 123456
+Line from User2
+another line from user2
+critical bug fixed
