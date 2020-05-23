@@ -2,4 +2,4 @@ Hello world!!!
 Good bye!
 Line from user2
 Line from user1
-line from user1 - lesson about rebase
+line from user2 - lesson about rebase
